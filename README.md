@@ -1,7 +1,7 @@
 # Gender-Detection-using-OpenCV
 Gender detection is one of the popular computer vision applications. When you use a camera to detect a person’s gender instead of detecting it on a picture, it can be said to be a realtime gender detection system. I hope you liked this article on Realtime Gender Detection using Python. Feel free to ask your valuable questions in the comments section below.
 
-!()
+![](test.jpg)
 
 ## Real-time Gender Detection System
 To create a gender detection system using Python, we need to train a model with some high-level features of the face of human beings such as:
